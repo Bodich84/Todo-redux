@@ -1,2 +1,5 @@
-# Todo-redux
-Список справ, react + redux
+### Todo-redux
+
+Список справ
+
+react, redux
